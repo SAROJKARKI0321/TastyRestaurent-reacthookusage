@@ -125,7 +125,7 @@ button:active {
 .home-container {
   height: 100vh;
   width: 100%;
-  background-image: url('src/assets/piz.jpg'); /* Replace with your image path */
+  background-image: url('public/piz.jpg'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   position: relative;
