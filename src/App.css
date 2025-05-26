@@ -91,22 +91,12 @@ button:active {
   background-color: #e2d4d4;
  
   padding: 1rem 2rem;
-  width: 100%;
+  width: auto;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   position: sticky;
   top: 0;
   z-index: 1000;
 }
-@media (max-width :768px){
-  .nav-list{
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    gap:1rem;
-  }
-}
-  
-
 
 .nav-list {
   display: flex;
